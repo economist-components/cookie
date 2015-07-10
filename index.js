@@ -27,7 +27,6 @@ export default class AuthenticatedComponent extends React.Component {
     var me = this;
     React.Children.forEach(this.props.children, function(child) {
       if((me.state.isLoggedIn !== null && child.props.showIfLoggedIn==="true") || (me.state.isLoggedIn === null && child.props.showIfNotLoggedIn==="true")){
-        child.props.username = me.state.username;
         newChildren.push(child);
       }
     });
