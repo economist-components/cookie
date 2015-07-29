@@ -1,6 +1,6 @@
 {
   "name": "@economist/component-authenticated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic autentication function",
   "author": "The Economist (http://economist.com)",
   "license": "ISC",
