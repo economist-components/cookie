@@ -1,4 +1,4 @@
-export default class Authenticated {
+export default class Cookie {
 
   getAllCookies() {
     if (typeof document !== 'undefined') {

@@ -1,6 +1,8 @@
 node_modules/
 *.log
 *.js
+bundle.css
+*.html
 bundle.*
 /node_modules
 bundle.js
