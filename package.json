@@ -142,7 +142,7 @@
     "eslint-plugin-one-variable-per-var": "^0.0.3",
     "eslint-plugin-react": "^4.3.0",
     "karma-chai": "^0.1.0",
-    "karma-mocha": "^0.2.0",
+    "karma-mocha": "^1.0.1",
     "karma-sauce-launcher": "^0.2.14",
     "minifyify": "^7.0.1",
     "mocha": "^2.2.5",
